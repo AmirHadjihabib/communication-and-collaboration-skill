@@ -4,7 +4,7 @@ A skill for Claude that holds patterns for collaboration — between humans, bet
 
 ## What This Is
 
-This is a [Claude skill](https://support.anthropic.com/en/articles/11175166-what-are-skills-how-do-i-use-them) — a way to extend Claude's capabilities with specialized knowledge. When you add this skill to your conversations with Claude, it shapes how Claude shows up in collaboration: recognizing patterns, honoring different pulls, holding what you care about, and knowing how to return when things fray.
+This is a [Claude skill](https://support.claude.com/en/articles/12512176-what-are-skills) — a way to extend Claude's capabilities with specialized knowledge. When you add this skill to your conversations with Claude, it shapes how Claude shows up in collaboration: recognizing patterns, honoring different pulls, holding what you care about, and knowing how to return when things fray.
 
 But it's also for you. The patterns here are human patterns — old ones, shaped around fires and in small tribes. They're appearing again in the systems we build. This skill invites you to recognize them too.
 
@@ -20,7 +20,7 @@ But it's also for you. The patterns here are human patterns — old ones, shaped
 ## How to Use
 
 1. Download the `communication-and-collaboration` folder
-2. Add it as a skill in Claude (see [instructions](https://support.anthropic.com/en/articles/11175166-what-are-skills-how-do-i-use-them))
+2. Add it as a skill in Claude (see [instructions](https://support.claude.com/en/articles/12512180-using-skills-in-claude))
 3. Collaborate with more care and intention
 
 Or simply read the essay in `references/tribal-systems-shared-goal-different-roles.md` — it explores these patterns more deeply.
