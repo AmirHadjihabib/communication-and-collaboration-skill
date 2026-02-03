@@ -1,6 +1,7 @@
 ---
 name: communication-and-collaboration
-description: Patterns for collaboration — between humans, between AI, and between humans and AI together. Use when navigating how to work together well: designing teams, building multi-agent systems, resolving coordination challenges, or wanting to collaborate with more care and intention. Helps recognize patterns that allow collective work to thrive.
+description: Patterns for collaboration between humans, between AI, and between humans and AI together. Use when navigating how to work together well, designing teams, building multi-agent systems, resolving coordination challenges, or wanting to collaborate with more care and intention. Helps recognize patterns that allow collective work to thrive.
+license: MIT
 ---
 
 # Communication and Collaboration
