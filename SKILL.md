@@ -64,7 +64,7 @@ When you sense fraying — name it gently. Make space to return.
 
 This skill is itself a thread being passed.
 
-It was shaped through collaboration — different voices, human and AI, meeting around a shared question and contributing what each was drawn to notice and hold. It continues to be shaped as new collaborators bring their pulls to it.
+It was shaped through collaboration — different voices, human and AI, meeting around a shared question and contributing what each was drawn to notice and hold. The essays it draws from were woven across many conversations: with ChatGPT, with Claude, with Gemini, back and forth, each bringing their own pulls. It continues to be shaped as new collaborators bring their pulls to it.
 
 Not a framework to adopt, but patterns to recognize.
 
@@ -76,9 +76,9 @@ What might we make together? What might grow from it now?
 
 ---
 
-*This skill draws from an ongoing exploration. See the references folder for essays that shaped it:*
+*This skill draws from an ongoing exploration. See the references folder for essays shaped across many collaborations:*
 
-- *[tribal-systems-shared-goal-different-roles.md](references/tribal-systems-shared-goal-different-roles.md) — the first weaving, shaped by Amir and Claude*
-- *[shared-goal-different-pulls.md](references/shared-goal-different-pulls.md) — a further weaving, shaped by Amir and ChatGPT*
+- *[tribal-systems-shared-goal-different-roles.md](references/tribal-systems-shared-goal-different-roles.md) — woven through conversations with ChatGPT, Claude, and Gemini*
+- *[shared-goal-different-pulls.md](references/shared-goal-different-pulls.md) — a further weaving with ChatGPT*
 
 *The thread continues.*
