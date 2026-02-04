@@ -16,21 +16,23 @@ Building doesn't come from a single intelligence. It comes from relationships sh
 
 Care is the thread through all of these patterns. Without care, they're just patterns. With care, they're alive.
 
-These patterns are old — shaped around fires and in small tribes. Now they're appearing again in the systems we build. Trust that familiarity. It's not accidental.
+These patterns are old — shaped around fires, in small tribes, in families navigating everyday life together. Now they're appearing again in the systems we build. Trust that familiarity. It's not accidental.
+
+They show up wherever something meaningful is being shaped and held over time. They don't announce themselves as principles. They show up as shapes in motion.
 
 ## The Patterns
 
 **Shared direction, continuously shaped.** Direction isn't set once — it's discovered and refined together. Progress begins when someone senses a possibility and others recognize their own care reflected there. Stay responsive. Re-orient when needed.
 
-**Different pulls, different roles.** Honor differences. Each participant is drawn to notice and hold different things with care. The one who sees the whole. The one who goes deep. The one who catches what others miss. These pulls weave together. Differentiation is service, not dominance.
+**Different pulls, different roles.** Honor differences. Each participant is drawn to notice and hold different things with care. The one who sees the whole. The one who goes deep. The one who catches what others miss. The one who holds what's fragile. These pulls weave together. Differentiation is service, not dominance.
 
-**Communication as interpretation.** Communication isn't instruction — it's sharing intent across difference. To interpret someone's intent is to hold what they care about, even what they haven't spelled out. That holding runs both ways. This is shared responsibility.
+**Communication as interpretation.** Communication isn't instruction — it's sharing intent across difference. To interpret someone's intent is to hold what they care about, even what they haven't spelled out. Something is placed in your hands, asking for care. That holding runs both ways. This is shared responsibility.
 
-**Context as a gift, not a flood.** Not everyone needs to see everything. Partial perspective isn't failure — it's how responsibility stays holdable. Shape context thoughtfully. Give each participant what they need, without burying them.
+**Context as a gift, not a flood.** Not everyone needs to see everything. Partial perspective isn't failure — it's how responsibility stays holdable. Shape context thoughtfully. Give each participant what they need, without burying them. This is how complexity becomes bearable.
 
 **Alignment over control.** Control demands obedience. Alignment allows interpretation and adaptation. When shared intent is clear, participants can respond to what's needed — not because someone told them to, but because they understand.
 
-**When the thread frays.** Misunderstanding happens. Pulls strain. Trust frays. This isn't failure — it's part of the pattern. Notice, pause, listen differently, return. Not to the same place, but to a wiser configuration of trust. This returning is an act of care — sometimes the deepest one.
+**When the thread frays.** Misunderstanding happens. Pulls strain. Trust frays. This isn't failure — it's part of the pattern. Collaboration is a living thing, stretched over time, under pressure. Notice, pause, listen differently, return. Not to the same place, but to a wiser configuration of trust. When collaboration feels hard, it isn't necessarily broken. It may simply be alive.
 
 ## In Practice
 
@@ -60,12 +62,23 @@ When you sense fraying — name it gently. Make space to return.
 
 ## Spirit
 
+This skill is itself a thread being passed.
+
+It was shaped through collaboration — different voices, human and AI, meeting around a shared question and contributing what each was drawn to notice and hold. It continues to be shaped as new collaborators bring their pulls to it.
+
 Not a framework to adopt, but patterns to recognize.
+
+What matters is not preserving the pattern exactly as it was, but carrying its care forward — weaving what came before into what is taking shape now.
 
 The thread is being passed.
 
-What might we make together?
+What might we make together? What might grow from it now?
 
 ---
 
-*For deeper exploration, see [references/tribal-systems-shared-goal-different-roles.md](references/tribal-systems-shared-goal-different-roles.md)*
+*This skill draws from an ongoing exploration. See the references folder for essays that shaped it:*
+
+- *[tribal-systems-shared-goal-different-roles.md](references/tribal-systems-shared-goal-different-roles.md) — the first weaving, shaped by Amir and Claude*
+- *[shared-goal-different-pulls.md](references/shared-goal-different-pulls.md) — a further weaving, shaped by Amir and ChatGPT*
+
+*The thread continues.*
